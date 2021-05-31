@@ -1,0 +1,16 @@
+C:\Users\William Girardi\source\repos\FixationExercise\FixationExercise\bin\Debug\net5.0\FixationExercise.exe
+C:\Users\William Girardi\source\repos\FixationExercise\FixationExercise\bin\Debug\net5.0\FixationExercise.deps.json
+C:\Users\William Girardi\source\repos\FixationExercise\FixationExercise\bin\Debug\net5.0\FixationExercise.runtimeconfig.json
+C:\Users\William Girardi\source\repos\FixationExercise\FixationExercise\bin\Debug\net5.0\FixationExercise.runtimeconfig.dev.json
+C:\Users\William Girardi\source\repos\FixationExercise\FixationExercise\bin\Debug\net5.0\FixationExercise.dll
+C:\Users\William Girardi\source\repos\FixationExercise\FixationExercise\bin\Debug\net5.0\ref\FixationExercise.dll
+C:\Users\William Girardi\source\repos\FixationExercise\FixationExercise\bin\Debug\net5.0\FixationExercise.pdb
+C:\Users\William Girardi\source\repos\FixationExercise\FixationExercise\obj\Debug\net5.0\FixationExercise.csprojAssemblyReference.cache
+C:\Users\William Girardi\source\repos\FixationExercise\FixationExercise\obj\Debug\net5.0\FixationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\William Girardi\source\repos\FixationExercise\FixationExercise\obj\Debug\net5.0\FixationExercise.AssemblyInfoInputs.cache
+C:\Users\William Girardi\source\repos\FixationExercise\FixationExercise\obj\Debug\net5.0\FixationExercise.AssemblyInfo.cs
+C:\Users\William Girardi\source\repos\FixationExercise\FixationExercise\obj\Debug\net5.0\FixationExercise.csproj.CoreCompileInputs.cache
+C:\Users\William Girardi\source\repos\FixationExercise\FixationExercise\obj\Debug\net5.0\FixationExercise.dll
+C:\Users\William Girardi\source\repos\FixationExercise\FixationExercise\obj\Debug\net5.0\ref\FixationExercise.dll
+C:\Users\William Girardi\source\repos\FixationExercise\FixationExercise\obj\Debug\net5.0\FixationExercise.pdb
+C:\Users\William Girardi\source\repos\FixationExercise\FixationExercise\obj\Debug\net5.0\FixationExercise.genruntimeconfig.cache
